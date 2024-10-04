@@ -1,0 +1,4 @@
+/home/divyanshu/Atlassian_P/secure_file_transfer_with_chat_cpp/build/CMakeFiles/server.dir
+/home/divyanshu/Atlassian_P/secure_file_transfer_with_chat_cpp/build/CMakeFiles/client.dir
+/home/divyanshu/Atlassian_P/secure_file_transfer_with_chat_cpp/build/CMakeFiles/edit_cache.dir
+/home/divyanshu/Atlassian_P/secure_file_transfer_with_chat_cpp/build/CMakeFiles/rebuild_cache.dir
