@@ -86,4 +86,3 @@ This project is suitable for scenarios where secure file transfer is critical, s
 - **Secure Backup Solutions**: Safeguarding important files by transferring them to a secure server.
 
 By implementing this project, users can ensure that their data is protected against unauthorized access and tampering during transit.
-# Secure-File-Transfer-with-Chat-using-Crypto
